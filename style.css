@@ -1,0 +1,10 @@
+body{
+	background-color: beige;
+}
+#container{
+	margin: 50px;
+	display: flex;
+	border: 1px solid black;
+	height: 320px;
+	width: 320px;
+}
