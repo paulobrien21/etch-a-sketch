@@ -4,7 +4,13 @@ body{
 #container{
 	margin: 50px;
 	display: flex;
+	flex-wrap: wrap;
 	border: 1px solid black;
 	height: 320px;
 	width: 320px;
+	background-color: white;
+}
+.square {
+  border: 0.5px solid lightgrey;
+  box-sizing: border-box;
 }
